@@ -19,7 +19,7 @@
       "id": 4,
       "name": "Algorithms",
       "description": "These useful algorithms come up a lot when interviewing for programming jobs. "
-    },
+    }
     
   ],
   "cards": [
@@ -94,7 +94,7 @@
       "back": "Renders the first matching child <Route> ",
       "deckId": 4,
       "id": 12
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
