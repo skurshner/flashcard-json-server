@@ -10,6 +10,16 @@
       "description": "React Router is a collection of navigational components that compose declaratively with your application.",
       "id": 2
     }
+     {
+      "id": 3,
+      "name": "Data Structures",
+      "description": "Learn the most common and useful data structures that apply to all programming languages. "
+    },
+{
+      "id": 4,
+      "name": "Algorithms",
+      "description": "These useful algorithms come up a lot when interviewing for programming jobs. "
+    },
     
   ],
   "cards": [
@@ -48,7 +58,43 @@
       "back": "3rd Card Back",
       "deckId": 2,
       "id": 6
-    }
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 3,
+      "id": 7
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 3,
+      "id": 8
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 3,
+      "id": 9
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 4,
+      "id": 10
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 4,
+      "id": 11
+    },
+     {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 4,
+      "id": 12
+    },
   ],
   "profile": {
     "name": "typicode"
