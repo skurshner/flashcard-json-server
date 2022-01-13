@@ -12,13 +12,13 @@
     },
      {
       "id": 3,
-      "name": "Data Structures",
-      "description": "Learn the most common and useful data structures that apply to all programming languages. "
+      "name": "Javascript",
+      "description": "Study Q & A related to Javascript that might come up in an interview."
     },
    {
       "id": 4,
-      "name": "Algorithms",
-      "description": "These useful algorithms come up a lot when interviewing for programming jobs. "
+      "name": "CSS",
+      "description": "CSS questions and answers."
     }
     
   ],
@@ -60,38 +60,38 @@
       "id": 6
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "What are the differences between null and undefined?",
+      "back": "'undefined' means, value of the variable is not defined, 'null' means empty or non-existent value which is used by programmers to indicate “no value”",
       "deckId": 3,
       "id": 7
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "What are the differences between == and ===?",
+      "back": "'==' will not check types and '===' will check whether both sides are of same type.",
       "deckId": 3,
       "id": 8
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "How would you compare two objects in JavaScript?",
+      "back": "Equality check will check whether two objects have same value for same property. To check that, you can get the keys for both the objects. If the number of properties doesn't match, these two objects are not equal. Secondly, you will check each property whether they have the same value. If all the properties have same value, they are equal.",
       "deckId": 3,
       "id": 9
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "What are the properties related to box model?",
+      "back": "Technically, height, width, padding and border are part of box model and margin is related to it.",
       "deckId": 4,
       "id": 10
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "What does float do?",
+      "back": "Float pushes an element to the sides of a page with text wrapped around it. you can create entire page or a smaller area by using float.",
       "deckId": 4,
       "id": 11
     },
      {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
+      "front": "What are the differences between visibility hidden and display none",
+      "back": "'display: none' removes the element from the normal layout flow and allow other elements to fill in. 'visibility: hidden' tag is rendered, it takes space in the normal flow but doesn't show it.",
       "deckId": 4,
       "id": 12
     }
